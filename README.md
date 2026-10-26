@@ -3,6 +3,12 @@
 > **공정하고 유쾌한 1:1 무작위 역할 배정 단일 페이지 웹 애플리케이션**  
 > 외부 라이브러리 없이 순수 HTML5, CSS3, Vanilla JavaScript만으로 구현된 프로젝트입니다.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-2ea44f?style=for-the-badge&logo=github)](https://ekdha12000-dev.github.io/random-role-assigner/)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ekdha12000-dev/random-role-assigner)
+
+🔗 **실시간 웹 데모**: [https://ekdha12000-dev.github.io/random-role-assigner/](https://ekdha12000-dev.github.io/random-role-assigner/)
+
+
 ---
 
 ## ✨ 핵심 기능 및 특징
